@@ -1,0 +1,16 @@
+{
+  "name": "@sumitkumars/hello-world-package-pvt",
+  "version": "1.0.0",
+  "description": "Prints 'Hello world!'",
+  "keywords": [
+    "hello",
+    "helloworld"
+  ],
+  "license": "ISC",
+  "author": "Sumit Kumar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
