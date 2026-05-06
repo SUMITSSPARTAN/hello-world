@@ -5,3 +5,7 @@ export function sayHello() {
 export function sayHelloTo(name) {
     return console.log(`Hello ${name}!`);
 }
+
+export function sayHelloToEveryone(names) {
+    return names.forEach(name => console.log(`Hello ${name}!`));
+}
