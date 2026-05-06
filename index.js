@@ -1,3 +1,3 @@
-import { sayHello } from "./modules/sayHello.js";
+import { sayHello, sayHelloTo } from "./modules/sayHello.js";
 
-export default { sayHello };
+export default { sayHello, sayHelloTo };
